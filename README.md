@@ -26,4 +26,9 @@ To analyze this project as
 •	Less than 200 bags/acre = Below level necessary to support commercial harvest.
 •	Less than 100 bags/acre = Oyster reefs considered depleted.
 
-### Visuals:
+### Report Visuals:
+![Figure_5](https://github.com/user-attachments/assets/a071e544-775b-4043-aa07-a066c822a21b) 
+
+Figure 5: Total number of live vs. dead oysters by sampling round
+
+
