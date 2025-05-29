@@ -78,17 +78,3 @@ _Figure 13: Shell height distribution by sampling round for the East side of bay
 
 _Figure 14: Shell height distribution by sampling round for the West side of the bay_
 
-
-![Figure_15](https://github.com/user-attachments/assets/b82dc64b-11fb-418a-ab9c-14e8ba9bae8d)
-
-_Figure 15: Estimated density of live oysters (oysters/m²) by side of bay and sampling round_
-
-
-![Figure_16](https://github.com/user-attachments/assets/bda37263-00ec-41ad-a03a-afd9428d6a62)
-
-_Figure 16: Estimated density of live oysters (oysters/m²) by site and sampling round_
-
-
-![Figure_17](https://github.com/user-attachments/assets/e0b0cee9-8993-4576-9b1e-841a24d1dbc2)
-
-_Figure 17: Estimated average bags per acre by side of bay and round_
