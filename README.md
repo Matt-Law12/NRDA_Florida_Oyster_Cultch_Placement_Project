@@ -27,8 +27,68 @@ To analyze this project as
 •	Less than 100 bags/acre = Oyster reefs considered depleted.
 
 ### Report Visuals:
+Below are the visuals I created for the Apalachicola monitoring report:
+
 ![Figure_5](https://github.com/user-attachments/assets/a071e544-775b-4043-aa07-a066c822a21b) 
 
-Figure 5: Total number of live vs. dead oysters by sampling round
+_Figure 5: Total number of live vs. dead oysters by sampling round_
 
 
+![Figure_6](https://github.com/user-attachments/assets/01118f7f-26d6-4c90-92e2-24d7d59ddab3)
+
+_Figure 6: Number of live oysters by size class per sampling round_
+
+
+![Figure_7](https://github.com/user-attachments/assets/7aae9ae3-6afb-41c6-894a-87a174350a2c)
+
+_Figure 7: Number of live oysters per size class by side of bay and sampling round_ 
+
+
+![Figure_8](https://github.com/user-attachments/assets/46c14d2a-c8a2-43b7-b5d9-6a5054c9aa7a)
+
+_Figure 8: Number of spat sized oysters per site by round_
+
+
+![Figure_9](https://github.com/user-attachments/assets/6c478869-6a4e-437f-9716-72bd5ed7dbf3)
+
+_Figure 9: Number of seed sized oysters per site by round_
+
+
+![Figure_10](https://github.com/user-attachments/assets/837007eb-0296-44e4-80d5-08f4da735bb8)
+
+_Figure 10: Number of adult sized oysters per site by round_
+
+
+![Figure_11](https://github.com/user-attachments/assets/d00fc7f7-9af7-469c-aed5-91bb6b5b2d11)
+
+_Figure 11: Average shell height of live oysters collected in Apalachicola Bay_
+
+
+![Figure_12](https://github.com/user-attachments/assets/0523bf8c-c3a9-4fb0-a722-a2382546a3d0)
+
+_Figure 12: Shell height distribution by sampling round for the entire bay_
+
+
+![Figure_13](https://github.com/user-attachments/assets/41d98d6f-a461-4752-b71f-4cc2ba05c9c0)
+
+_Figure 13: Shell height distribution by sampling round for the East side of bay_
+
+
+![Figure_14](https://github.com/user-attachments/assets/5a89ec11-8ea6-4c14-9b32-12af44fbf3ec)
+
+_Figure 14: Shell height distribution by sampling round for the West side of the bay_
+
+
+![Figure_15](https://github.com/user-attachments/assets/b82dc64b-11fb-418a-ab9c-14e8ba9bae8d)
+
+_Figure 15: Estimated density of live oysters (oysters/m²) by side of bay and sampling round_
+
+
+![Figure_16](https://github.com/user-attachments/assets/bda37263-00ec-41ad-a03a-afd9428d6a62)
+
+_Figure 16: Estimated density of live oysters (oysters/m²) by site and sampling round_
+
+
+![Figure_17](https://github.com/user-attachments/assets/e0b0cee9-8993-4576-9b1e-841a24d1dbc2)
+
+_Figure 17: Estimated average bags per acre by side of bay and round_
