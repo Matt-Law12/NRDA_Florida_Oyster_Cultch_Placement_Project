@@ -22,10 +22,14 @@ If the sample contains more than 100 live oysters, the remaining live oysters ar
 Monitoring for this project occurs on a yearly basis, with annual monitoring reports being created and pubished by Central Panhandle Aquatic Preserves (CPAP) staff.
 
 ## Data Analysis
-To analyze this monitoring data for this project, 
+To evaluate the outcomes of the NRDA Florida Oyster Cultch Placement Restoration Project, I conducted a detailed analysis of the project's monitoring data. Using Python, along with libraries such as pandas, matplotlib, and numpy, I cleaned, grouped, and visualized the data to identify trends in oyster reef development following restoration efforts. I selected graph types and styles that prioritize clarity and accessibility, ensuring the visuals effectively communicate the data in a clear and accessible way for a broad range of stakeholders. The primary goal of this analysis was to assess how oyster populations have progressed since cultch placement, using the Florida Department of Agriculture and Consumer Services (FDACS) scale for estimating harvestable oyster density as a benchmark for reef health, defined as follows:
+
 •	More than 400 bags/acre = Healthy oyster reefs capable of sustaining commercial harvest.
+
 •	More than 200 bags/acre = Oyster reefs capable of sustaining limited harvest.
+
 •	Less than 200 bags/acre = Below level necessary to support commercial harvest.
+
 •	Less than 100 bags/acre = Oyster reefs considered depleted.
 
 ### Report Visuals:
