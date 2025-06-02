@@ -32,6 +32,9 @@ To evaluate the outcomes of the NRDA Florida Oyster Cultch Placement Restoration
 
 •	Less than 100 bags/acre = Oyster reefs considered depleted.
 
+
+I also created an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) geared more specifically towards individuals with little to no prior knowledge of the project. The dashboard enables users to explore key insights through dynamic visuals, making complex data more accessible and engaging—far beyond what static graphs or traditional reports can offer.
+
 ### Report Visuals:
 Below are the visuals I created for the Apalachicola monitoring report:
 
