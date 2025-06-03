@@ -38,52 +38,59 @@ I also created an [interactive PowerBI dashboard](https://app.powerbi.com/view?r
 ### Report Visuals:
 Below are the visuals I created for the Apalachicola monitoring report:
 
-![Figure_5](https://github.com/user-attachments/assets/a071e544-775b-4043-aa07-a066c822a21b) 
-
+![Figure_5](https://github.com/user-attachments/assets/a071e544-775b-4043-aa07-a066c822a21b) <br />
 _Figure 5: Total number of live vs. dead oysters by sampling round_
-
-
-![Figure_6](https://github.com/user-attachments/assets/01118f7f-26d6-4c90-92e2-24d7d59ddab3)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_6](https://github.com/user-attachments/assets/01118f7f-26d6-4c90-92e2-24d7d59ddab3)<br />
 _Figure 6: Number of live oysters by size class per sampling round_
-
-
-![Figure_7](https://github.com/user-attachments/assets/7aae9ae3-6afb-41c6-894a-87a174350a2c)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_7](https://github.com/user-attachments/assets/7aae9ae3-6afb-41c6-894a-87a174350a2c)<br />
 _Figure 7: Number of live oysters per size class by side of bay and sampling round_ 
-
-
-![Figure_8](https://github.com/user-attachments/assets/46c14d2a-c8a2-43b7-b5d9-6a5054c9aa7a)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_8](https://github.com/user-attachments/assets/46c14d2a-c8a2-43b7-b5d9-6a5054c9aa7a)<br />
 _Figure 8: Number of spat sized oysters per site by round_
-
-
-![Figure_9](https://github.com/user-attachments/assets/6c478869-6a4e-437f-9716-72bd5ed7dbf3)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_9](https://github.com/user-attachments/assets/6c478869-6a4e-437f-9716-72bd5ed7dbf3)<br />
 _Figure 9: Number of seed sized oysters per site by round_
-
-
-![Figure_10](https://github.com/user-attachments/assets/837007eb-0296-44e4-80d5-08f4da735bb8)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_10](https://github.com/user-attachments/assets/837007eb-0296-44e4-80d5-08f4da735bb8)<br />
 _Figure 10: Number of adult sized oysters per site by round_
-
-
-![Figure_11](https://github.com/user-attachments/assets/d00fc7f7-9af7-469c-aed5-91bb6b5b2d11)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_11](https://github.com/user-attachments/assets/d00fc7f7-9af7-469c-aed5-91bb6b5b2d11)<br />
 _Figure 11: Average shell height of live oysters collected in Apalachicola Bay_
-
-
-![Figure_12](https://github.com/user-attachments/assets/0523bf8c-c3a9-4fb0-a722-a2382546a3d0)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_12](https://github.com/user-attachments/assets/0523bf8c-c3a9-4fb0-a722-a2382546a3d0)<br />
 _Figure 12: Shell height distribution by sampling round for the entire bay_
-
-
-![Figure_13](https://github.com/user-attachments/assets/41d98d6f-a461-4752-b71f-4cc2ba05c9c0)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_13](https://github.com/user-attachments/assets/41d98d6f-a461-4752-b71f-4cc2ba05c9c0)<br />
 _Figure 13: Shell height distribution by sampling round for the East side of bay_
-
-
-![Figure_14](https://github.com/user-attachments/assets/5a89ec11-8ea6-4c14-9b32-12af44fbf3ec)
-
+<br />
+<br />
+<br />
+<br />
+![Figure_14](https://github.com/user-attachments/assets/5a89ec11-8ea6-4c14-9b32-12af44fbf3ec)<br />
 _Figure 14: Shell height distribution by sampling round for the West side of the bay_
-
