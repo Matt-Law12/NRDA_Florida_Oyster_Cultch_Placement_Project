@@ -31,10 +31,10 @@ I also created an [interactive PowerBI dashboard](https://app.powerbi.com/view?r
 
 ### Report Visuals:
 Below are the visuals I created for the Apalachicola monitoring report:
-
+<br />
+<br />
 ![Figure_5](https://github.com/user-attachments/assets/a071e544-775b-4043-aa07-a066c822a21b) <br />
 _Figure 5: Total number of live vs. dead oysters by sampling round_
-<br />
 <br />
 <br />
 <br />
@@ -43,10 +43,8 @@ _Figure 6: Number of live oysters by size class per sampling round_
 <br />
 <br />
 <br />
-<br />
 ![Figure_7](https://github.com/user-attachments/assets/7aae9ae3-6afb-41c6-894a-87a174350a2c)<br />
 _Figure 7: Number of live oysters per size class by side of bay and sampling round_ 
-<br />
 <br />
 <br />
 <br />
@@ -55,10 +53,8 @@ _Figure 8: Number of spat sized oysters per site by round_
 <br />
 <br />
 <br />
-<br />
 ![Figure_9](https://github.com/user-attachments/assets/6c478869-6a4e-437f-9716-72bd5ed7dbf3)<br />
 _Figure 9: Number of seed sized oysters per site by round_
-<br />
 <br />
 <br />
 <br />
@@ -67,10 +63,8 @@ _Figure 10: Number of adult sized oysters per site by round_
 <br />
 <br />
 <br />
-<br />
 ![Figure_11](https://github.com/user-attachments/assets/d00fc7f7-9af7-469c-aed5-91bb6b5b2d11)<br />
 _Figure 11: Average shell height of live oysters collected in Apalachicola Bay. Error bars represent the standard error_
-<br />
 <br />
 <br />
 <br />
@@ -79,10 +73,8 @@ _Figure 12: Shell height distribution by sampling round for the entire bay_
 <br />
 <br />
 <br />
-<br />
 ![Figure_13](https://github.com/user-attachments/assets/41d98d6f-a461-4752-b71f-4cc2ba05c9c0)<br />
 _Figure 13: Shell height distribution by sampling round for the East side of bay_
-<br />
 <br />
 <br />
 <br />
