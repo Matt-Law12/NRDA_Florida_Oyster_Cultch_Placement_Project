@@ -11,13 +11,7 @@ Cultch material consisted of combinations of oyster shells, either mined from ex
 ## Data Collection
 To collect the monitoring data for this project, a diver descends and places a 0.25 m² quadrat on the bottom in a haphazard manner near the transect line. Live oysters, shell, and associated fauna are removed to the depth of the sediment, placed in mesh collecting bags, and delivered to the survey vessel. This is repeated five times on each side of the boat, as well as off the bow of the boat. A total of 15 quadrats (5 starboard, 5 port, and 5 bow) are sampled for each midpoint. 
 
-The team onboard records water quality observations at the surface and bottom of the water column, using a Yellow Springs Instrument (YSI) handheld datasonde. Parameters recorded include: water temperature, dissolved oxygen, specific conductivity, salinity, and pH. Weather conditions, wind, current, and latitude and longitude are also recorded.
-
-Samples are processed once all the quadrats have been collected for a midpoint. If it is not possible to process samples immediately after sampling, they are frozen until processing can be completed. 
-
-First, the sample is weighed using a digital hanging scale. If oysters are present in the collected sample, shell height of the first 100 live oysters is measured to the nearest millimeter (mm). Oyster shell height is defined as the distance from the umbo to the distal margin of the shell.
-
-If the sample contains more than 100 live oysters, the remaining live oysters are counted. Live oysters are divided into one of three size classes: spat (0-25 mm), seed (26-74 mm), and harvestable adult (75 mm and larger). The number of dead oysters in the sample is also counted.
+Samples are processed once all the quadrats have been collected for a midpoint. First, the sample is weighed using a digital hanging scale. If oysters are present in the collected sample, shell height of the first 100 live oysters is measured to the nearest millimeter (mm). Oyster shell height is defined as the distance from the umbo to the distal margin of the shell. If the sample contains more than 100 live oysters, the remaining live oysters are counted. Live oysters are divided into one of three size classes: spat (0-25 mm), seed (26-74 mm), and harvestable adult (75 mm and larger). The number of dead oysters in the sample is also counted.
 
 Monitoring for this project occurs on a yearly basis, with annual monitoring reports being created and pubished by Central Panhandle Aquatic Preserves (CPAP) staff.
 
