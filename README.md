@@ -69,7 +69,7 @@ _Figure 10: Number of adult sized oysters per site by round_
 <br />
 <br />
 ![Figure_11](https://github.com/user-attachments/assets/d00fc7f7-9af7-469c-aed5-91bb6b5b2d11)<br />
-_Figure 11: Average shell height of live oysters collected in Apalachicola Bay_
+_Figure 11: Average shell height of live oysters collected in Apalachicola Bay. Error bars represent the standard error_
 <br />
 <br />
 <br />
